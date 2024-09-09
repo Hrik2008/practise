@@ -1,3 +1,3 @@
 # practise
 this is my first repository
-Author - Hrik Sarker
+Author - (Hrik Sarker)
